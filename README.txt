@@ -1,0 +1,1 @@
+Open in Python and run the requirements.py file in order to install all the necessary modules to run the Jupiter Notebook. After installing all the modules run the code_1.ipynb file which will produce all graphs, calculation, and datasets used in the report.
